@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package com.mycompany.tarea4.Usuarios;
-import com.mycompany.tarea4.Usuarios.GestorUsuarios;
 import com.mycompany.tarea4.Login.Usuario;
 import javax.swing.*;
 import java.awt.*;

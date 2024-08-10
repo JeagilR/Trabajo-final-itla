@@ -5,7 +5,6 @@
 package com.mycompany.tarea4.Login;
 import com.mycompany.tarea4.Usuarios.GestionUsuariosFrame;
 import com.mycompany.tarea4.Crud.GestionProductosFrame;
-import com.mycompany.tarea4.Login.LoginFrame;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

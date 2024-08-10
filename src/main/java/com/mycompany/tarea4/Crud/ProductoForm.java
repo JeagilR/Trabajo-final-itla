@@ -8,9 +8,6 @@ package com.mycompany.tarea4.Crud;
  *
  * @author Jeagil
  */
-import com.mycompany.tarea4.Crud.Producto;
-import com.mycompany.tarea4.Crud.GestorProductos;
-import com.mycompany.tarea4.Crud.GestionProductosFrame;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;

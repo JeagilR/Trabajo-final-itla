@@ -16,7 +16,14 @@ public class DatabaseConnection {
     private static final String USER = "estuditlafinal";
     private static final String PASSWORD = "itla123.";
 
-
+     /**
+     * Obtiene una conexión a la base de datos.
+     * <p>
+     * Este método utiliza el patrón de diseño Singleton para garantizar que
+     * solo se cree una instancia de la conexión a la base de datos.
+     * </p>
+     * @return una conexión a la base de datos o null si ocurre un error
+     */
     public static Connection getConnection() {
         try {
             return DriverManager.getConnection(URL, USER, PASSWORD);
